@@ -38,6 +38,7 @@ export default function Home() {
 
         <Image src='https://cozcastel.fr/wp-content/gallery/coz-castel-photo/drone_mur_de_galet.jpg' 
         layout='fill'
+        alt='test'
         className='object-cover'
         />
 
